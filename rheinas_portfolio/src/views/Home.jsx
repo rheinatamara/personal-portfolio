@@ -24,7 +24,7 @@ function Home() {
                     <span class="txt-type" data-wait="3000" data-words='[" Artist", " Designer", " Full Stack Dev"]'></span>
                     </h1>
                     <p class="lead">I specialize in UI/UX, Full-Stack Development and Graphic Design</p>
-                    <Link to="" id="button" class="btn-light">View My Work</Link>
+                    <Link to="/work" id="button" class="btn-light">View My Work</Link>
                 </div>
                 </div>
             </header>
@@ -34,8 +34,8 @@ function Home() {
                 <h2 class="section-title">I Specialize In</h2>
                 <div class="bottom-line"></div>
                 <p class="lead">
-                    Art as well as creating digital masterpieces and UI/UX layouts for
-                    website and mobile applications
+                   Creating digital masterpieces and UI/UX layouts for
+                    website and mobile applications as well as making it functional
                 </p>
                 <div class="specials">
                     <div>
